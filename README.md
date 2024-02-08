@@ -1,2 +1,2 @@
-# gomudule1 will be used as dependency
+# gomodule1 will be used as dependency
 
